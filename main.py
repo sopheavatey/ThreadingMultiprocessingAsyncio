@@ -1,3 +1,4 @@
+import multiprocessing
 import multiprocessing_task
 import threading_task
 import async_task
